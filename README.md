@@ -1,2 +1,2 @@
 # KeyLog-hook
-全局钩子按键记录程序
+Windows全局钩子按键记录程序框架
