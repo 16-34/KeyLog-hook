@@ -1,5 +1,5 @@
 # KeyLog-hook
-C语言 Windows 全局钩子 按键记录程序
+C语言 Windows 全局钩子 按键记录程序框架
 
 Entry.exe - 按键记录程序
 KeyLog.dll - 程序依赖动态链接库
